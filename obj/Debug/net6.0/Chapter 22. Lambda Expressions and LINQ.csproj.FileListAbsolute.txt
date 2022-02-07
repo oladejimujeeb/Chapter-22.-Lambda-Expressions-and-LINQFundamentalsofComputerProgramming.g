@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.exe
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.deps.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\ref\Chapter 22. Lambda Expressions and LINQ.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\bin\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\ref\Chapter 22. Lambda Expressions and LINQ.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter 22. Lambda Expressions and LINQ\obj\Debug\net6.0\Chapter 22. Lambda Expressions and LINQ.genruntimeconfig.cache
